@@ -1,0 +1,20 @@
+# Claude Code files
+*claude*
+
+# Environment variables and credentials
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Student data files
+in/*.xlsx
+*.csv
+out/
+
+# Logs
+*.log
