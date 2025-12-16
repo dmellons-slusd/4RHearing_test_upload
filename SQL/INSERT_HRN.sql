@@ -5,7 +5,9 @@ INSERT INTO HRN (
     SR,
     SL,
     PF,
-    TD
+    TD,
+    SCL,
+    [IN]
 ) VALUES (
     :PID,
     :SQ,
@@ -13,5 +15,7 @@ INSERT INTO HRN (
     :SR,
     :SL,
     :PF,
-    :TD
+    :TD,
+    :SCL,
+    :IN
 )
